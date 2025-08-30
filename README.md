@@ -23,3 +23,5 @@ Analyzed Amazon sales dataset of 1 Lakh+ orders to study revenue, product perfor
 
 
 ## pip install requirements.txt
+
+## Unzip Amazon Sale Report.zip
